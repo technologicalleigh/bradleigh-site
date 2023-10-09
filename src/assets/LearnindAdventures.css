@@ -1,0 +1,15 @@
+.blog-list-wrapper {
+  margin-top: 4%;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  background-color: #fff;
+}
+
+.blog-list-item {
+  padding: 4vw;
+  background-color: #ef767a;
+  color: #fff;
+  font-size: 1.5vw;
+  text-align: center;
+}

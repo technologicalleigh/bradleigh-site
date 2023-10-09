@@ -1,0 +1,41 @@
+.header-wrapper {
+  width: 100%;
+}
+
+.blog-title {
+  margin-top: 2%;
+  font-size: 3.5vw;
+}
+
+img {
+  width: 100%;
+}
+
+.blog-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-p {
+  width: 80%;
+  font-size: 1vw;
+}
+
+.blog-ol {
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-il {
+  width: 50%;
+  color: #ef767a;
+  font-size: 1.2vw;
+  text-align: justify;
+}

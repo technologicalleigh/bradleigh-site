@@ -1,0 +1,11 @@
+{
+  "blogs": [
+    {
+      "id": "devops-adv",
+      "title": "My DevOps Adventure!",
+      "url": "/devopsadventure",
+      "imgSrc": "../img/devops.png",
+      "imgDesc": "DevOps Photo by RealToughCandy.com: https://www.pexels.com/photo/person-holding-a-sticker-11035393/"
+    }
+  ]
+}

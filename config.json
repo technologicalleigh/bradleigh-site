@@ -1,0 +1,20 @@
+{
+  "urls": [
+    {
+      "text": "Home",
+      "link": "/home"
+    },
+    {
+      "text": "LinkedIn",
+      "link": "https://www.linkedin.com/in/bradleighkottke/"
+    },
+    {
+      "text": "Coding Adventures",
+      "link": "/adventures"
+    },
+    {
+      "text": "Resume",
+      "link": "/resume"
+    }
+  ]
+}
